@@ -1,9 +1,11 @@
 # synergy
-### _Your Name <your.name@example.com>_
+### Brad (Warweasle) Beer <warweasle1@gmail.com>_
 
-This is a project to do ... something.
+An openai wrapper for Common Lisp
+
+I wanted a lispy langchain so I could get some work done. 
 
 ## License
 
-Specify license here
+MIT License.
 
